@@ -1,4 +1,4 @@
 # Suraj
 This is my first Git Repository.
 <br>
-Author - Suraj Mangule.
+Author - Suraj (S Mangule)
